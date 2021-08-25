@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently working as a Software Engineering Intern @ Descomplica
-- 🌱 I’m currently learning React
+- 🌱 Learning React
 
 <div>
   <a href="https://github.com/felipepavang">
