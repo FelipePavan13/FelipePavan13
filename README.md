@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently working as a Software Engineering Intern @ Descomplica
-- 🌱 Learning React
+- 🌱 Learning NodeJS and NestJS
 
 <div>
   <a href="https://github.com/felipepavang">
