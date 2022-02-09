@@ -1,8 +1,8 @@
 ### Hi! My name is Felipe! 👋 
 ##
 
-- 🔭 I’m currently working as a Software Engineering Intern @ Descomplica
-- 🌱 Learning ReactJS and NextJS
+- 🔭 I’m currently working as a Fullstack Developer @ Descomplica
+- 🌱 My current stack is React / NodeJS
 
 <div>
   <a href="https://github.com/felipepavang">
