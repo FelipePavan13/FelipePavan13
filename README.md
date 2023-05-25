@@ -4,6 +4,8 @@
 - 🔭 I’m currently working as a Fullstack Developer @ Descomplica
 - 🌱 My current stack is React / NodeJS
 
+- Professional account: https://github.com/felipe-pavan-desco
+
 <div>
   <a href="https://github.com/felipepavang">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipepavang&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
